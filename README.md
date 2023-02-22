@@ -1,1 +1,2 @@
 # pullrequestdeneme
+uygulamanin amaci pullrequest olusturma
